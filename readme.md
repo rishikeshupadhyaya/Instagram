@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/ZiyCJ5g7.gif' title='gif' width='' alt='Video Walkthrough' />
+https://submissions.us-east-1.linodeobjects.com/ios_university/ZiyCJ5g7.gif
 
 # Parstagram - Part II
 
@@ -41,5 +41,5 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://submissions.us-east-1.linodeobjects.com/ios_university/ZiyCJ5g7.gif' title='gif' width='' alt='Video Walkthrough' />
+https://submissions.us-east-1.linodeobjects.com/ios_university/ZiyCJ5g7.gif
 
